@@ -1,0 +1,25 @@
+﻿@model InternetShop.Models.Category
+<p>
+    <h3 class="text-success">Новая категория продуктов</h3>
+</p>
+
+<Form method="post" action="/Home/AddCategory">
+    <div class="form-group">
+        <label for="nameId" class="text-primary">Наименование</label>
+        @if (Model == null)
+        {
+            <input class="form-control" name="Name" id="nameId" aria-describedby="nameHelp">
+        }
+        else
+        {
+            <input class="form-control" name="Name" value="@Model.Name" id="nameId" aria-describedby="nameHelp">
+        }
+        <small id="nameHelp" class="form-text text-muted">Введите наименование категории(max 50 симв, обяз.ввод)</small>
+        @if (Model != null)
+        {
+            <p class="text-danger">@Html.ValidationMessageFor(m => m.Name)</p>
+        }
+    </div>
+    <h5 class="text-danger">@ViewBag.Message</h5>
+    <button class="btn-primary btn-lg" type="submit">Добавить</button>
+</Form>

@@ -1,0 +1,33 @@
+﻿<h3 class="text-success">Список категорий товаров</h3>
+
+<p><a href="/Home/AddCategory" class="btn btn-primary btn-lg">Новая категория товара</a></p>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th width="70">Id</th>
+            <th width="150">Категория товара</th>
+            <th width="50"></th>
+            <th width="50"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in ViewBag.Categories)
+        {
+
+            <tr>
+                <td><h4 class="text-primary">@category.Id</h4></td>
+                <td>
+                    <h4 class="text-primary"><a href="/Home/Category/@category.Id">@category.Name</a></h4>
+                </td>
+                <td>
+                    <h4><a href="/Home/EditCategory/@category.Id" class="btn btn-primary btn-lg">Корректировать</a></h4>
+                </td>
+                <td>
+                    <h4><a href="/Home/DeleteCategory/@category.Id" class="btn btn-primary btn-lg">Удалить</a></h4>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

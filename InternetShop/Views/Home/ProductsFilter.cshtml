@@ -1,0 +1,89 @@
+﻿@if (ViewBag.categoryName == null)
+{
+    <h3 class="text-success">Список товаров</h3>
+}
+else
+{
+    <h3 class="text-success">Список товаров категории "@ViewBag.categoryName"</h3>
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Товар</th>
+            <th>Стоимость</th>
+            <th>Категория</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var productInfo in ViewBag.ProductInfoList)
+        {
+
+            <tr>
+                <td><h4 class="text-primary">@productInfo.Id</h4></td>
+                <td><h4 class="text-primary"><a href="/Home/Product/@productInfo.Id">@productInfo.Name</a></h4></td>
+                <td><h4 class="text-primary">@productInfo.Price</h4></td>
+                <td><h4 class="text-primary">@productInfo.CategoryName</h4></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<nav aria-label="Page navigation example">
+    <ul class="pagination">
+        @if (@ViewBag.pagePreviousNumber == null)
+        {
+            <li class="page-item disabled">
+                <a class="page-link" href="" tabindex="-1" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                    <span class="sr-only">Предыдущая</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Home/ProductsFilter?categoryId=@ViewBag.categoryId&pageNumber=@ViewBag.pagePreviousNumber&countRecords=@ViewBag.countRecords" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                    <span class="sr-only">Предыдущая</span>
+                </a>
+            </li>
+        }
+
+        @foreach (var x in ViewBag.listPages)
+        {
+            if (x == @ViewBag.pageNumber)
+            {
+                <li class="page-item active">
+                    <a href="/Home/ProductsFilter?categoryId=@ViewBag.categoryId&pageNumber=@x&countRecords=@ViewBag.countRecords">@x<span class="sr-only">Текущая</span></a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item">
+                    <a href="/Home/ProductsFilter?categoryId=@ViewBag.categoryId&pageNumber=@x&countRecords=@ViewBag.countRecords">@x</a>
+                </li>
+            }
+        }
+
+        @if (@ViewBag.pageNextNumber == null)
+        {
+            <li class="page-item disabled">
+                <a class="page-link" href="" tabindex="-1" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                    <span class="sr-only">Следующая</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="page-item">
+                <a class="page-link" href="/Home/ProductsFilter?categoryId=@ViewBag.categoryId&pageNumber=@ViewBag.pageNextNumber&countRecords=@ViewBag.countRecords" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                    <span class="sr-only">Следующая</span>
+                </a>
+            </li>
+        }
+    </ul>
+</nav>

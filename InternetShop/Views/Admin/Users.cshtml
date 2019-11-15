@@ -1,0 +1,34 @@
+﻿<h3 class="text-success">Список пользователей</h3>
+
+<p><a href="/Admin/AddUser" class="btn btn-primary btn-lg">Новый пользователь</a></p>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th width="150">Id</th>
+            <th width="150">Логин</th>
+            <th width="50"></th>
+            <th width="50"></th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in ViewBag.Users)
+        {
+
+        <tr>
+            <td><h4 class="text-primary">@user.Id</h4></td>
+            <td>
+                <h4 class="text-primary"><a href="/Admin/User/@user.Id">@user.Login</a></h4>
+            </td>
+            <td>
+                <h4><a href="/Admin/EditUser/@user.Id" class="btn btn-primary btn-lg">Корректировать</a></h4>
+            </td>
+            <td>
+                <h4><a href="/Admin/DeleteUser/@user.Id" class="btn btn-primary btn-lg">Удалить</a></h4>
+            </td>
+
+        </tr>
+        }
+    </tbody>
+</table>

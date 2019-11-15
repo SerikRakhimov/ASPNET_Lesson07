@@ -1,0 +1,16 @@
+﻿@model InternetShop.Models.Category
+<p>
+    <h3 class="text-success">Удаление категории продукта</h3>
+</p>
+
+<Form method="post" action="/Home/DeleteCategory">
+    <div class="form-group">
+        <label for="id" class="text-primary">Id</label>
+        <input class="form-control " name="Id" value="@Model.Id" id="id" aria-describedby="idHelp" readonly>
+    </div>
+    <div class="form-group">
+        <label for="nameId" class="text-primary">Наименование</label>
+        <input class="form-control" name="Name" value="@Model.Name" id="nameId" aria-describedby="nameHelp" readonly>
+    </div>
+    <button class="btn-primary btn-lg" type="submit">Удалить</button>
+</Form>

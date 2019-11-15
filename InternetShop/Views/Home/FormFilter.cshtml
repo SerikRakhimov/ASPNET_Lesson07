@@ -1,0 +1,43 @@
+﻿    <p>
+        <h3 class="text-success">Вывод списка товаров по категории и постранично</h3>
+    </p>
+
+    <Form method="post" action="/Home/FormFilter">
+        <div class="form-group">
+            <label for="CategoryIdSelect" class="text-primary">Категория товара</label>
+            <select class="form-control" id="CategoryIdSelect" name="CategoryId">
+            @if (ViewBag.categoryId == 0)
+            {
+                <option value="0" selected>Все записи</option>
+            }
+            else
+            {
+                <option value="0" >Все записи</option>
+            }
+            @foreach (var category in ViewBag.Categories)
+            {
+                if (ViewBag.categoryId != 0)
+                {
+                    if (ViewBag.categoryId == category.Id)
+                    {
+                        <option value="@category.Id" selected>@category.Name</option>
+                    }
+                    else
+                    {
+                        <option value="@category.Id">@category.Name</option>
+                    }
+                }
+                else
+                {
+                    <option value="@category.Id">@category.Name</option>
+                }
+             }
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="countRecordsId" class="text-primary">Количество товаров на странице</label>
+            <input class="form-control" name="countRecords" value="@ViewBag.countRecords" type="number" id="countRecordsdId" aria-describedby="passwordHelp">
+        </div>
+        <h5 class="text-danger">@ViewBag.Message</h5>
+        <button class="btn-primary btn-lg" type="submit">Вывести список товаров</button>
+    </Form>

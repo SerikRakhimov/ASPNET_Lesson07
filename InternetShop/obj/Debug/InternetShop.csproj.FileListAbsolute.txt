@@ -1,0 +1,166 @@
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\InternetShop.dll.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\InternetShop.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\InternetShop.pdb
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csc.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csc.exe.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csc.rsp
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csi.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csi.exe.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\csi.rsp
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.AppContext.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Console.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\vbc.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\vbc.exe.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\vbc.rsp
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Antlr3.Runtime.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Newtonsoft.Json.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Helpers.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Mvc.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Optimization.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Razor.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.Razor.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\WebGrease.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Helpers.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Mvc.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Optimization.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.Razor.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\System.Web.WebPages.Razor.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Newtonsoft.Json.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Antlr3.Runtime.pdb
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CopyComplete
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\EntityFramework.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\EntityFramework.SqlServer.dll
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\EntityFramework.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\bin\EntityFramework.SqlServer.xml
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr01.resources
+C:\Users\РахимовС\source\repos\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.GenerateResource.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\InternetShop.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\InternetShop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\InternetShop.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csc.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csc.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csc.rsp
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csi.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csi.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\csi.rsp
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.AppContext.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Collections.Immutable.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Console.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.IO.Compression.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.IO.FileSystem.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.IO.Pipes.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.AccessControl.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Claims.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.ValueTuple.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Xml.XPath.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\vbc.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\vbc.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\vbc.rsp
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\VBCSCompiler.exe
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\roslyn\VBCSCompiler.exe.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Antlr3.Runtime.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\EntityFramework.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\EntityFramework.SqlServer.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Newtonsoft.Json.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Helpers.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Mvc.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Optimization.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Razor.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.Deployment.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.Razor.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\WebGrease.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\EntityFramework.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\EntityFramework.SqlServer.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Helpers.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Mvc.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Optimization.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.Razor.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.Deployment.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\System.Web.WebPages.Razor.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Newtonsoft.Json.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Antlr3.Runtime.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr01.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.GenerateResource.Cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr02.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr03.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr04.resources
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ASPNET\InternetShop\InternetShop\InternetShop\obj\Debug\InternetShop.Migrations.Migr05.resources
